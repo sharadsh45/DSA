@@ -25,4 +25,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sharadsh45/DSA/tree/master/0901-online-stock-span) |
+## Array
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
