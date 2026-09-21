@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
+| [3524-find-x-value-of-array-i](https://github.com/sharadsh45/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sharadsh45/DSA/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/sharadsh45/DSA/tree/master/3524-find-x-value-of-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/sharadsh45/DSA/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
